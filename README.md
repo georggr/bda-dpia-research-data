@@ -1,6 +1,6 @@
 # Establishing a Comprehensive Privacy Impact Assessment Methodology for Big Data Analytics in Compliance with the General Data Protection Regulation
 
-Welcome to the our research repository. This space hosts the questionnaires and raw data collected from a three-round Delphi study, followed by interviews with experts. The data presented here is essential for understanding how the Data Protection Impact Assessment (DPIA) process can be enhanced in the context of Big Data Analytics (BDA).
+This repository contains the questionnaires and raw data collected from a three-round Delphi study, followed by expert interviews. The data provided here is critical to understanding the findings and recommendations outlined in our research paper, which focuses on enhancing the Data Protection Impact Assessment (DPIA) framework in the context of Big Data Analytics (BDA). By accessing this data, researchers and practitioners can gain deeper insights into the key Privacy Touch Points (PTPs) identified and validated throughout the study, which aim to improve the alignment of DPIA practices with the unique challenges posed by BDA.
 
 ## Repository Structure
 
