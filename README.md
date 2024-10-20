@@ -16,9 +16,9 @@ You can find the following files in this folder:
 - `questionnaire-round-1.pdf` – Delphi Round 1 Questionnaire
 - `questionnaire-round-2.pdf` – Delphi Round 2 Questionnaire
 - `questionnaire-round-3.pdf` – Delphi Round 3 Questionnaire
-- `raw-data-round-1.xls` – Raw data from Delphi Round 1
-- `raw-data-round-2.xls` – Raw data from Delphi Round 2
-- `raw-data-round-3.xls` – Raw data from Delphi Round 3
+- `raw-data-round-1.xlsx` – Raw data from Delphi Round 1
+- `raw-data-round-2.xlsx` – Raw data from Delphi Round 2
+- `raw-data-round-3.xlsx` – Raw data from Delphi Round 3
 
 ### 2. Interview Folder
 The **Interview** folder contains data from the expert interviews conducted after the Delphi study. It includes:
@@ -28,13 +28,11 @@ The **Interview** folder contains data from the expert interviews conducted afte
 
 Files in this folder include:
 - `interview-questions.pdf` – Interview Questions
-- `raw-data-interviews.xls` – Raw data from the expert interviews
+- `raw-data-interviews.xlsx` – Raw data from the expert interviews
 
 ## Purpose of the Repository
 
 This repository serves as an open-access space for researchers, scholars, and practitioners interested in understanding the enhancement of DPIA processes in BDA environments. By making this data publicly available, we aim to encourage transparency, collaboration, and further research in this field.
-
-
 
 ## License
 
@@ -43,7 +41,7 @@ The data in this repository is made available under the Open Data Commons Open D
 - Adapt: modify, transform and build upon the data.
 
 Under the following conditions:
-- Attribution: You must attribute the data to the source.
+- Attribution: You must attribute the data to the source (Ghent University).
 - ShareAlike: If you modify or build upon the data, you must distribute the modified data under the same ODbL license.
 - Keep Open: Any new database created from this data must remain open and accessible.
 
