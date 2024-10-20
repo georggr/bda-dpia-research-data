@@ -16,9 +16,9 @@ You can find the following files in this folder:
 - `questionnaire-round-1.pdf` – Delphi Round 1 Questionnaire
 - `questionnaire-round-2.pdf` – Delphi Round 2 Questionnaire
 - `questionnaire-round-3.pdf` – Delphi Round 3 Questionnaire
-- `raw-data-round-1.csv` – Raw data from Delphi Round 1
-- `raw-data-round-2.csv` – Raw data from Delphi Round 2
-- `raw-data-round-3.csv` – Raw data from Delphi Round 3
+- `raw-data-round-1.xls` – Raw data from Delphi Round 1
+- `raw-data-round-2.xls` – Raw data from Delphi Round 2
+- `raw-data-round-3.xls` – Raw data from Delphi Round 3
 
 ### 2. Interview Folder
 The **Interview** folder contains data from the expert interviews conducted after the Delphi study. It includes:
@@ -28,7 +28,7 @@ The **Interview** folder contains data from the expert interviews conducted afte
 
 Files in this folder include:
 - `interview-questions.pdf` – Interview Questions
-- `raw-data-interviews.csv` – Raw data from the expert interviews
+- `raw-data-interviews.xls` – Raw data from the expert interviews
 
 ## Purpose of the Repository
 
