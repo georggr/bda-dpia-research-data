@@ -4,7 +4,7 @@ This repository contains the questionnaires and raw data collected from a three-
 
 ## Repository Structure
 
-The data is organised into two main folders: **Delphi** and **Interview**.
+The data is organised into two main folders: **"delphi"** and **"interview"**.
 
 ### 1. Delphi Folder
 The **Delphi** folder contains all data related to the Delphi study, which was conducted in three rounds. This includes:
