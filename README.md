@@ -4,10 +4,10 @@ This repository contains the questionnaires and raw data collected from a three-
 
 ## Repository Structure
 
-The data is organised into two main folders: **"delphi"** and **"interview"**.
+The research data is organised into two (sub)folders: **"delphi"** and **"interview"**.
 
 ### 1. Delphi Folder
-The **Delphi** folder contains all data related to the Delphi study, which was conducted in three rounds. This includes:
+The **delphi** folder contains all data related to the Delphi study, which was conducted in three rounds. This includes:
 
 - **Questionnaires**: Copies of the questionnaires used in each of the three rounds.
 - **Raw Data**: The raw data collected from each round, providing insights into how the experts responded during the study.
@@ -21,7 +21,7 @@ You can find the following files in this folder:
 - `raw-data-round-3.xlsx` – Raw data from Delphi Round 3
 
 ### 2. Interview Folder
-The **Interview** folder contains data from the expert interviews conducted after the Delphi study. It includes:
+The **interview** folder contains data from the expert interviews conducted after the Delphi study. It includes:
 
 - **Interview Questions**: The list of questions used to guide the expert interviews.
 - **Raw Data**: The raw data collected during the interviews.
